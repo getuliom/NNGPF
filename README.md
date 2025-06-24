@@ -8,7 +8,7 @@ The paper that presents this code's results, "**A dynamic GPF scheduler for 5G H
 The simulator used in this paper is the **Vienna 5G System Level Simulator**, which allows the modelling of a scenario. Learn more at the URL below.
 > https://www.tuwien.at/etit/tc/en/vienna-simulators/vienna-5g-simulators/.
 
-# 3. Mean Simulation File - neuralDE.m
+# 3. Main Simulation File - neuralDE.m
 The mean simulation file that uses the Dynamic Scheduler in the HetNet scenario is called ```neuralDE.m```, present in the root repository.
 
 ## 3.1 Dynamic Scheduler parameter
